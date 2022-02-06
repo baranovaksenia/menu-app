@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 ![Без имени](https://user-images.githubusercontent.com/72503528/152677377-55340d14-f78e-46ad-9b84-cc902b21e091.png)
-https://app.netlify.com/sites/musing-bhabha-db9abc/overview
+https://musing-bhabha-db9abc.netlify.app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
